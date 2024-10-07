@@ -11,5 +11,6 @@ class Solution(object):
             else:
                 total += current_value
             prev_value = current_value
+            # Done
         
         return total
